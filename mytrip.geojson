@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2059555,
+          43.6050377
+        ]
+      },
+      "properties": {
+        "altitude": 817.3,
+        "speed": 0.22,
+        "timestamp": 1746629731,
+        "course": null,
+        "variation": null,
+        "satellites": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2059555,
+          43.6049309
+        ]
+      },
+      "properties": {
+        "altitude": 822.5,
+        "speed": 3.58,
+        "timestamp": 1746629742,
+        "course": 342.35,
+        "variation": null,
+        "satellites": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2060242,
+          43.6049461
+        ]
+      },
+      "properties": {
+        "altitude": 826.2,
+        "speed": 0.67,
+        "timestamp": 1746629753,
+        "course": null,
+        "variation": null,
+        "satellites": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.205925,
+          43.6049004
+        ]
+      },
+      "properties": {
+        "altitude": 828.7,
+        "speed": 4.34,
+        "timestamp": 1746629767,
+        "course": null,
+        "variation": null,
+        "satellites": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.2059555,
+            43.6050377
+          ],
+          [
+            -116.2059555,
+            43.6049309
+          ],
+          [
+            -116.2060242,
+            43.6049461
+          ],
+          [
+            -116.205925,
+            43.6049004
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Track",
+        "points": 4
+      }
+    }
+  ]
+}
